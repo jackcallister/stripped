@@ -1,0 +1,19 @@
+.top-screen, .primary .current-menu-item, .current-page-ancestor, .primary .current_page_parent, .stroke, #slider, #menu-mobile-navigation li{
+background: #000;
+zoom: 1;
+-ms-filter:"progid:DXImageTransform.Microsoft.Alpha(Opacity=70)"; // first!
+filter: alpha(opacity=70);
+}
+
+@media screen and (max-width: 1040px) {
+
+	.margin-media{
+		margin-right: 0;
+	}
+	
+	.clear-media{
+		clear: both;
+	}
+
+
+}

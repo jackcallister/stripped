@@ -1,0 +1,14 @@
+/*
+Theme Name: Stripper
+Description: Blank Wordpress theme for development. 
+Based on Jeff Starr's HTML 5 & Andy Clarke's 320 CSS.  
+Version: 0.1
+Author: Jack Callister
+*/
+/* 
+	http://meyerweb.com/eric/tools/css/reset/ 
+	v2.0 | 20110126
+	License: none (public domain)
+*/
+
+@import url('css/screen.css');
